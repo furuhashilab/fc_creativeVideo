@@ -1,1 +1,1 @@
-# fc_creativeVideo
+# 動画編集部レポジトリ
