@@ -1,6 +1,7 @@
 ## V＆Fのロゴデータ置き場
 
-[VF_logo_data.pdf](https://github.com/furuhashilab/fc_creativeVideo/files/6653008/VF_logo_data.pdf)
+![VF_logo_data](https://user-images.githubusercontent.com/40033443/121998935-98d27180-cde7-11eb-8b29-ddcb4ec380f2.png)
+
 
 ### 使用カラー
 #f7e07c
